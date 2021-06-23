@@ -1,0 +1,151 @@
+
+.tg{
+	border-style: solid;
+	color: red;
+}
+
+.brown{
+	color: red;
+}
+
+.me{
+	border-style: solid;
+	color: red;
+}
+
+.go{
+	border-style: solid;
+	color: red;
+}
+
+.it{
+	border-style: solid;
+	color: red;
+}
+
+ a.nav-link {
+
+    color: #ff002f;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 10px;
+}
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #bd2130;
+}
+
+
+.myown{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+     margin-right: -15px; 
+     margin-left: -15px; 
+    width: 80%;
+    margin-left: 13rem;
+    margin-bottom: 5rem;
+}
+
+.bg-light {
+    background-color: #32100d!important;
+}
+
+
+/*
+.footer{
+	background-color: #32100D;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 1rem;
+	
+}*/
+.footer2{
+	background-color: #32100D;
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+.mytext{
+	margin-left: 5rem;
+	margin-top: 0.5rem;
+	color: white;
+}
+
+.media{
+	display: flex;
+	margin-right: 5rem;
+}
+.social{
+	margin-top: 0;
+	padding: 0.5rem;
+	list-style-type: none;
+
+}
+
+/*.low{
+	font-size: 10px;
+	align-items: center;
+}*/
+.jumb{
+	padding: 22% 38%;
+}
+.myrow{
+	margin-top: 3rem;
+}
+
+.mycontainerFluid {
+	padding-left: 0;
+	padding-right: 0;
+}
+.secondcontainer{
+	margin: 3rem 1rem 7rem 1rem ;
+}
+/*.bg{
+	color: blue;
+	margin: 10px;
+}*/
+
+.think-zoom{
+	margin-top: 3rem;
+}
+.iconFill{
+	padding-right: 0;
+}
+.searchFill{
+	padding-left: 0;
+}
+
+/*p{
+	text-align: center;
+}*/
+
+
+.re{
+	margin-top: 2rem;
+}
+
+.containerFill{
+	padding-left: 0;
+	padding-right: 0;
+}
+.cup{
+	margin-top: 5rem;
+	margin-bottom: 2rem;
+}
+
+.homeHome{
+	margin-bottom: 8rem;
+}
+
+nav ul{
+	margin: 0;
+	padding:0;
+	display: block;
+}
+nav ul.turn-right{
+	float: right;
+}

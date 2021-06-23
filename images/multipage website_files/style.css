@@ -1,0 +1,28 @@
+
+.brown{
+    background-color: none;
+
+}
+.container{
+	background-image: 100%;
+}
+.footer{
+	padding: 10px;
+	margin-top: 10px;
+	background-color: #33110E;
+	color: white;
+	
+}
+.low{
+	font-size: 10px;
+	align-items: center;
+}
+
+nav ul{
+	margin: 0;
+	padding:0;
+	display: block;
+}
+nav ul.turn-right{
+	float: right;
+}
